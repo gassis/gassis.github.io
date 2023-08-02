@@ -20,10 +20,7 @@
 
 title: Prof. Gustavo de Assis Costa
 email: gustavo.costa@ifg.edu.br
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Professor Titular no IFG-Campus Jataí. Possui Doutorado em Engenharia Eletrônica e Computação pelo ITA (Instituto Tecnológico de Aeronáutica) e Mestrado em Ciências da Computação pela UFMG (Universidade Federal de Minas Gerais). Os temas de maior interesse atualmente envolvem as áreas de Web Semântica, Grafos do Conhecimento, Aprendizado de Máquina e Processamento de Linguagem Natural
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gassis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guacostajti
