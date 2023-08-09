@@ -23,7 +23,7 @@ markdown: kramdown
 
 title: Prof. Gustavo de Assis Costa
 email: gustavo.costa@ifg.edu.br
-description: "Professor Titular no IFG - Campus Jatai. Os temas de interesse sao: Web Semantica, Grafos do Conhecimento, Aprendizado de Maquina e Processamento de Linguagem Natural."
+description: "Professor Titular no IFG - Campus Jatai."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gassis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guacostajti
